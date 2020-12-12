@@ -1,0 +1,15 @@
+pandas
+matplotlib
+numpy
+keras
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+notebook
+tensorboard
+tensorflow
+virtualenv
+scikit-learn
+scipy
+opencv-contrib-python
