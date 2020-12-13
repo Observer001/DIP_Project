@@ -1,6 +1,3 @@
-# Function to detect faces in a grascale image returns its top right corner and resized image of 48x48
-# Author: Shashi Kant
-# Date: 07/12/2018
 
 import numpy as np
 import cv2
